@@ -8,3 +8,5 @@ https://www.kaggle.com/code/yassineghouzam/introduction-to-cnn-keras-0-997-top-6
 datagen 사용 후 -> 0.993<br>
 위 코드와 같이 conv2d *2 *2 32 32 64 64 -> 0.994 <br>
 dropout 0.5 -> 0.993<br>
+
+hyperparameter tuning required.<br>
