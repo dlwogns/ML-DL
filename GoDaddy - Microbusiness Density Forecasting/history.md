@@ -1,6 +1,10 @@
 code reference 
 https://www.kaggle.com/code/masahiroichigo/godaddy-microbusiness-density-forecasting-with-tf
+<br>
 EDA reference
-https://www.kaggle.com/code/cdeotte/linear-regression-baseline-lb-1-092
+https://www.kaggle.com/code/tanmay111999/gdmbf-ar-ma-arma-arima-sarima-auto-arima
+
+ARIMA 
+https://www.kaggle.com/code/tanmay111999/gdmbf-ar-ma-arma-arima-sarima-auto-arima
 
 https://velog.io/@dlwogns/GoDaddy-Microbusiness-Density-Forecasting
