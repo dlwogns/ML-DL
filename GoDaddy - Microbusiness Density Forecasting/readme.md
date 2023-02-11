@@ -4,6 +4,9 @@ https://www.kaggle.com/code/masahiroichigo/godaddy-microbusiness-density-forecas
 EDA reference
 https://www.kaggle.com/code/tanmay111999/gdmbf-ar-ma-arma-arima-sarima-auto-arima
 
+Time series reference
+https://otexts.com/fppkr/components.html
+
 ARIMA 
 https://www.kaggle.com/code/tanmay111999/gdmbf-ar-ma-arma-arima-sarima-auto-arima
 
